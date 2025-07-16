@@ -1,0 +1,37 @@
+{
+  "id": "68782a200381bd6207c1d32b",
+  "title": "AI Maps",
+  "description": "An in-depth course on Artificial Intelligence mechanisms in mapping technologies, designed to provide the knowledge and skills required to develop smart mapping solutions.",
+  "learningObjectives": [
+    "Understand the basics of Artificial Intelligence",
+    "Learn about mapping technologies",
+    "-appreciate the application of AI in mapping",
+    "Gain practical experience developing AI mapping solutions"
+  ],
+  "finalProjectDetails": {
+    "overview": "For the final project, students will design and develop an innovative AI mapping solution addressing a real-world problem.",
+    "planningResources": [
+      "AI Mapping Design Template",
+      "AI Technologies Reference",
+      "Mapping Principles and Best Practices Guide"
+    ],
+    "submissionInstructions": "Projects should be submitted in the form of a digital portfolio, inclusive of design documents, source code, and a video demonstration of the solution in action.",
+    "requirements": [
+      ""
+    ]
+  },
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [
+    {
+      "name": "Hanna Akhramchuk",
+      "githubUsername": "akhhanna20"
+    }
+  ],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "createdAt": "2025-07-16T22:39:28.959Z",
+  "updatedAt": "2025-07-16T22:39:28.959Z"
+}
