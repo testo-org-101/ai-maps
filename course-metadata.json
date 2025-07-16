@@ -1,0 +1,18 @@
+{
+  "_id": "68782a200381bd6207c1d32b",
+  "title": "AI Maps",
+  "description": "An in-depth course on Artificial Intelligence mechanisms in mapping technologies, designed to provide the knowledge and skills required to develop smart mapping solutions.",
+  "createdBy": {
+    "name": "Tammam Alwafai",
+    "githubUsername": "1992tw"
+  },
+  "contributors": [
+    {
+      "name": "Hanna Akhramchuk",
+      "githubUsername": "akhhanna20"
+    }
+  ],
+  "status": "pending",
+  "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/testo-org-101/ai-maps"
+}
