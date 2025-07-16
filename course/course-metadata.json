@@ -25,13 +25,12 @@
     "githubUsername": "1992tw"
   },
   "contributors": [
-    {
-      "name": "Hanna Akhramchuk",
-      "githubUsername": "akhhanna20"
-    }
+    {},
+    {}
   ],
   "status": "pending",
   "originalGithubUrl": null,
+  "remoteGithubUrl": "https://github.com/testo-org-101/ai-maps",
   "createdAt": "2025-07-16T22:39:28.959Z",
-  "updatedAt": "2025-07-16T22:39:28.959Z"
+  "updatedAt": "2025-07-16T22:40:59.378Z"
 }
