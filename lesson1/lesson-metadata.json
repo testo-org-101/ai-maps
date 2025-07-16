@@ -1,0 +1,181 @@
+{
+  "id": "68782a200381bd6207c1d330",
+  "lessonNumber": 1,
+  "title": "Introduction to Artificial Intelligence",
+  "status": "complete",
+  "assignment": {
+    "title": "Exploring AI Technologies in Daily Life",
+    "objective": "Identify and analyze AI applications in everyday technologies.",
+    "expectedCapabilities": [
+      "Identify examples of AI in daily life",
+      "Analyze AI functionalities"
+    ],
+    "submissionInstructions": "Submit a typed document with your research findings and analyses.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Research AI technologies",
+        "description": "Identify five technologies powered by AI that you use regularly.",
+        "codeExample": "N/A",
+        "_id": "68782a510381bd6207c1d36b"
+      },
+      {
+        "taskNumber": 2,
+        "title": "Prepare a summary report",
+        "description": "Explain the workings and effects of these AI technologies on everyday tasks.",
+        "codeExample": "N/A",
+        "_id": "68782a510381bd6207c1d36c"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Research AI technologies",
+            "description": "Conduct research on five AI technologies you encounter in daily life.",
+            "codeExample": "N/A",
+            "_id": "68782a510381bd6207c1d369"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Prepare a summary report",
+            "description": "Prepare a report summarizing how each identified AI technology works and its impact on users.",
+            "codeExample": "N/A",
+            "_id": "68782a510381bd6207c1d36a"
+          }
+        ],
+        "_id": "68782a510381bd6207c1d368"
+      }
+    ],
+    "checklist": [
+      "Five AI technologies identified",
+      "Summary report prepared",
+      "User impact analyzed"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What is an example of AI affecting user experience?",
+        "options": [
+          "Voice Assistants improving accuracy",
+          "Paper maps improving durability",
+          "Books increasing content variety"
+        ],
+        "answer": "Voice Assistants improving accuracy",
+        "_id": "68782a510381bd6207c1d366"
+      },
+      {
+        "question": "Why is machine learning integral to AI?",
+        "options": [
+          "It simplifies data storage",
+          "It enables pattern recognition and decision making",
+          "It enhances user interface design"
+        ],
+        "answer": "It enables pattern recognition and decision making",
+        "_id": "68782a510381bd6207c1d367"
+      }
+    ]
+  },
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "What is Artificial Intelligence?",
+      "content": "Artificial Intelligence (AI) refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. AI manifests in everyday technology, although its application spans various industries.",
+      "videoUrl": "http://video.com/whatisAI",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence"
+      ],
+      "quizzes": [
+        {
+          "question": "What does AI stand for?",
+          "options": [
+            "Automated Interface",
+            "Artificial Intelligence",
+            "Applied Informatics"
+          ],
+          "answer": "Artificial Intelligence",
+          "_id": "68782a510381bd6207c1d35f"
+        }
+      ],
+      "_id": "68782a510381bd6207c1d35e"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Evolution and History of Artificial Intelligence",
+      "content": "The journey of AI began in the mid-20th century. Key milestones include the Dartmouth Conference in 1956, the development of expert systems in the 1970s, and the transition from theoretical exploration to practical applications in the 1990s.",
+      "videoUrl": "http://video.com/historyOfAI",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://en.wikipedia.org/wiki/History_of_artificial_intelligence"
+      ],
+      "quizzes": [
+        {
+          "question": "When did the term 'Artificial Intelligence' first coin?",
+          "options": [
+            "1956",
+            "1965",
+            "1975"
+          ],
+          "answer": "1956",
+          "_id": "68782a510381bd6207c1d361"
+        }
+      ],
+      "_id": "68782a510381bd6207c1d360"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "AI in Everyday Life",
+      "content": "AI is embedded in various technologies such as voice assistants, recommendation engines, and even autonomous vehicles. These technologies learn and adapt to provide smarter interactions and experiences for users.",
+      "videoUrl": "http://video.com/aiInEverydayLife",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.forbes.com/sites/bernardmarr/2018/12/20/the-important-roles-of-artificial-intelligence-in-our-daily-lives"
+      ],
+      "quizzes": [
+        {
+          "question": "What is an example of AI in everyday life?",
+          "options": [
+            "Smartphone",
+            "Voice Assistant",
+            "Traditional Radio"
+          ],
+          "answer": "Voice Assistant",
+          "_id": "68782a510381bd6207c1d363"
+        }
+      ],
+      "_id": "68782a510381bd6207c1d362"
+    },
+    {
+      "subsectionOrder": 4,
+      "title": "Fundamental AI Technologies",
+      "content": "AI utilizes machine learning, natural language processing, neural networks, and sophisticated algorithms. Machine learning algorithms enable systems to identify patterns, make decisions, and predict future outcomes.",
+      "videoUrl": "http://video.com/fundamentalAITechnologies",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://towardsdatascience.com/an-introduction-to-ai-simple-and-understandable-880bf2e08076"
+      ],
+      "quizzes": [
+        {
+          "question": "Which technology is not a part of AI?",
+          "options": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Traditional Relational Databases"
+          ],
+          "answer": "Traditional Relational Databases",
+          "_id": "68782a510381bd6207c1d365"
+        }
+      ],
+      "_id": "68782a510381bd6207c1d364"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/aiBasics"
+  ],
+  "references": [
+    "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+    "https://en.wikipedia.org/wiki/History_of_artificial_intelligence"
+  ]
+}
