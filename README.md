@@ -40,7 +40,9 @@ Projects should be submitted in the form of a digital portfolio, inclusive of de
 
 ## Contributors
 
-- Hanna Akhramchuk
+- undefined
+- undefined
+- undefined
 
 ---
 
